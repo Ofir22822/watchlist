@@ -1,0 +1,12 @@
+main, root {
+  text-align: center;
+  vertical-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+tr, thead {
+   line-height: 25px !important;
+   min-height: 25px;
+   height: 25px !important;
+}
